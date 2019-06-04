@@ -41,8 +41,11 @@ public class FormByName implements Forms {
         root.getChildren().add(table.getRoot());
         root.layout();
     }
+<<<<<<< HEAD
 
     public Button getContinueB() {
         return continueB;
     }
+=======
+>>>>>>> 6fe6e995c99183008d07a4b996c37dc7db1dabff
 }
